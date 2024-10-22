@@ -1,0 +1,7 @@
+namespace PatikaWeek13Homework1.Abstract
+{
+    internal interface ITeacher
+    {
+        string GetInfo();
+    }
+}
